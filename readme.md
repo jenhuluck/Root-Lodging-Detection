@@ -11,6 +11,10 @@ The image data came from photos taken by an agriculture company. The images were
   * Prepare the train and test dataset by different number of segments.
   * Apply Logistic Regression, Naive Bayes, KNN, Decision Tree, Random Forest, SVM, Gradient Boosting models on the new dataset.
   
+## Workflow
+![alt text](https://github.com/jenhuluck/Root-Lodging-Detection/blob/master/root%20lodging.png?raw=true)
+
+
 ## Dependencies
 * Python 3.7
 * sklearn 0.21.2
