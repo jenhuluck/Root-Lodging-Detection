@@ -2,7 +2,7 @@
 Root lodging in corn is defined as the displacement of roots from their natural vertical positions; which may lead to poor plant growth and development. Root lodging hampers the overall quality of the corn, reduces yield, and presents difficulties during harvest. In order to combat this issue, farmers are required to manually inspect each corn plot; which is a time consuming and expensive process. Corn farmers also measure the percentage of lodging and label each plot with their respective lodged percentage. Due to the natural vertical growth of corn plants after lodging, accurately detecting corn lodging has proven to be a difficult and tedious task.
 
 ## Data Source
-The image data came from photos taken by an agriculture company. The images were first processed to gray scale pictures. Total number of image is 113, with 44 of them are corns with two rows and rest are corns with four rows. The raw images were protected, so only processed images were presented.
+The raw images were taken from drones from an agriculture company. The images were first processed to gray scale pictures. Total number of image is 113, with 44 of them are corns with two rows and rest are corns with four rows. The raw images were protected, so only processed images were presented.
 
 ## Apporach
   * Convert RGB images to gray scale images.
