@@ -21,7 +21,7 @@ The image data came from photos taken by an agriculture company. The images were
 * pandas 1.0.5
 * numpy 1.16.5
 
-## Comparasions by models and number of segments
+## Comparasions by models and number of segments (By accuracies)
 | seg_num | Logistic Regression | Naive Bayes | KNN    | Decision Tree | Random Forest | SVM    | Gradient Boosting |
 |---------|---------------------|-------------|--------|---------------|---------------|--------|-------------------|
 | 10      | 58.96%              | 64.62%      | 78.77% | 94.81%        | 97.17%        | NA     | 96.23%            |
